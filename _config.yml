@@ -47,15 +47,12 @@ orcid_username: 0000-0002-4085-9114
 # about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: |
-  Hi, my name is Roberto De Filippo, I am a neuroscientist interested in neuromodulation and sensory perception. 
-  Currently my main focus is <mark>serotonin</mark>, in vivo recordings with high-density probes (Neuropixel) and Machine Learning in the context of neural decoding.
-  I have experience working with:
-  <mark>Python</mark>,
-  <mark>Matlab</mark>,
-  <mark>Tensorflow</mark>,
-  <mark>Max/MSP</mark>,
-  <mark>Pure Data</mark> and
-  <mark>git</mark>.
+  As far back as I can remember, I always wanted to be a writer. I never really had any other
+  plans. As a kid I was writing imitations of the Goosebumps books I was reading and as soon as I'd finished 
+  my creative writing degree at University I was lending my barely developed skills to anyone who would take
+  me. It's a lifelong obsession with crafting a good sentence, on any subject, for anyone who needs it.
+  Fortunately my skills have developed a lot since those early freelance days, and it's because every day I
+  could since I wrapped my eight-year-old hand around a pencil, I haven't stopped writing. 
 
 content:
   - title: Experience # Title for the section
