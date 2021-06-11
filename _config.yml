@@ -129,7 +129,7 @@ content:
 
         #  I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
-  - title: Other Publications
+  - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
        - **Somatostatin interneurons activated by 5-HT<sub>2A</sub> receptor suppress slow oscillations in medial entorhinal cortex.**\
