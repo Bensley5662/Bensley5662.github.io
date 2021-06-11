@@ -59,49 +59,37 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Schmitz lab, Charité-Universitätsmedizin Berlin
-        link: https://schmitz.neurocure.de/
+        title: Audible
+        link: Audible.de
         # link_text: boringcompany.com
-        sub_title: PhD student
-        caption: January 2016 - 2021
+        sub_title: Working Student
+        caption: 2019 - 2021
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            My PhD project is focused on serotonergic modulation of slow oscillations in entorhinal cortex, it led to the publication 
-            "Somatostatin interneurons activated by 5-HT<sub>2A</sub> receptor suppress slow oscillations in medial entorhinal cortex (Elife, 2021)". 
-            We identified a novel mechanism by which serotonin is able to alter cortical network activity. During the course of this project I employed the following techniques: 
-            in vitro patch clamp, silicone probe recording in anesthetized mice, optogenetics, 
-            pharmacology, immunohistochemistry and confocal imaging. I also became proficient with Matlab and Python for data analysis.
+            
 
       - layout: right
-        title: Poulet lab, Max Delbrück Center (MDC)
-        link: https://www.mdc-berlin.de/poulet
+        title: Hunter and Bligh
+        link: https://www.hunterandbligh.com.au/author/tom-bensley/
          # link_text: boringcompany.com
-        sub_title: PhD student
-        caption: February 2015 - December 2015
+        sub_title: Film Critic, Feature Writer
+        caption: 2017 - 2019
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            I worked under the supervision of Nevena Milenkovic investigating temperature perception in mice, a follow-up to her work 
-            "A somatosensory circuit for cooling perception in mice (Nature Neuroscience, 2014)". I have performed in vivo whole cell patch clamp recording from anesthetized mice,
-            thalamic drug injections and behavioral training.
+            
 
       - layout: left
-        title: Brecht lab, Bernstein Center for Computational Neuroscience (BCCN)
-        link: https://www.activetouch.de/
+        title: The Plus Ones
+        link: https://theplusones.com/melbourne/tag/film-review/
         # link_text: boringcompany.com
-        sub_title: Lab rotation
-        caption: October 2014 - January 2015
+        sub_title: Film Specialist
+        caption: October 2015 - January 2019
           #quote: >
           #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-                During my lab rotation in the Brecht lab I assisted Dr. Shimpei Ishiyama in his project later published as 
-                "Neural correlates of ticklishness in the rat somatosensory cortex (Science, 2016)".
-                The aim of his project was to understand the neurophysiological basis of ticklishness. 
-                My work was to assess if rats, like humans, have body areas more susceptible to tickling compared to others. 
-                A Matlab-based system was used to record 50-kHz USVs (ultra-sonic vocalization). 
-                USVs emission rate was used as a measure of ticklishness. 
-                In addition to this psychophysics experiment I assisted to in vivo tetrodes recording and electrical microstimulation in S1. 
+                 
 
       - layout: right
         title: Cherubini lab, International School for Advanced Studies (SISSA).
