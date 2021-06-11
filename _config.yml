@@ -85,28 +85,22 @@ content:
         link: https://theplusones.com/melbourne/tag/film-review/
         # link_text: boringcompany.com
         sub_title: Film Specialist
-        caption: October 2015 - January 2019
+        caption: 2015 - 2018
           #quote: >
           #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
                  
 
       - layout: right
-        title: Cherubini lab, International School for Advanced Studies (SISSA).
-        link: https://www.sissa.it/
+        title: Theatre People AU
+        link: https://www.theatrepeople.com.au/
         # link_text: boringcompany.com
-        sub_title: Master student
-        caption: July 2012 - October 2013
+        sub_title: Theatre reviewer
+        caption: 2013 - 2015
           #quote: >
           #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-                I did my internship in Professor Enrico Cherubini's lab working as an in vitro electrophysiologist. 
-                My thesis focused on the cis-trans isomerase Pin1 role in excitatory synaptic signaling. 
-                I recorded, using the whole-cell configuration of the patch clamp technique, CA1 pyramidal cells in mouse brain slices 
-                while stimulating the Schaﬀer collaterals and applying selective blockers of GABAA, AMPA and NMDA receptors.
-                I performed post-hoc morphological reconstruction on a subset of neurons using biocytin and confocal microscopy. 
-                My experiments contributed to the publication of “Pin1 Modulates the Synaptic Content of NMDA Receptors via Prolyl-Isomerization 
-                of PSD-95 (Journal of Neuroscience, 2016)”
+                
          
          
 
