@@ -134,11 +134,11 @@ content:
     content: | # this will include new lines to allow paragraphs
        
 
-  - title: Conferences
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-        - **2019** INSIGHT, Berlin. Poster ‘Serotonergic modulation of slow oscillations’ 
-        - **2018** FENS, Berlin. Poster ‘Serotonergic modulation of slow oscillations’
+  # - title: Conferences
+    # layout: text
+    # content: | # this will include new lines to allow paragraphs
+        # - **2019** INSIGHT, Berlin. Poster ‘Serotonergic modulation of slow oscillations’ 
+        # - **2018** FENS, Berlin. Poster ‘Serotonergic modulation of slow oscillations’
 
   - title: Awards
     layout: text
