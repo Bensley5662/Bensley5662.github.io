@@ -140,29 +140,29 @@ content:
         # - **2019** INSIGHT, Berlin. Poster ‘Serotonergic modulation of slow oscillations’ 
         # - **2018** FENS, Berlin. Poster ‘Serotonergic modulation of slow oscillations’
 
-  - title: Awards
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-        - **2015** Neurocure fellowship
+  # - title: Awards
+    # layout: text
+    # content: | # this will include new lines to allow paragraphs
+        # - **2015** Neurocure fellowship
 
-  - title: Various interests
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-        <p style="text-align:center">
-          <img src="/images/synths.jpeg " width="300" title="synthesizers"/>
-          <img src="/images/IMG_8581.jpg" width="400" title="nice beaches"/> 
-          <img src="/images/IMG_5849.jpeg " width="400" title="skates"/>
-        </p>
-        <p style="text-align:center">
-          <img src="/images/IMG_5850.jpeg " width="300" title="playing guitar"/>
-          <img src="/images/waterfall.gif " width="450" title="waterfalls"/>
-          <img src="/images/geyser.gif " width="300" title="watching geysers from really near"/>
-        </p>
-        <p style="text-align:center">
-          <img src="/images/Arduino_UNO_WIFI_30117100-01.jpeg " width="330" title="arduinos"/>
-          <img src="/images/V2Y0.gif " width="330" title="cinema"/>
-          <img src="/images/philosophy.jpeg " width="330" title="philosophy"/>
-        </p>
+  # - title: Various interests
+    # layout: text
+    # content: | # this will include new lines to allow paragraphs
+        # <p style="text-align:center">
+          # <img src="/images/synths.jpeg " width="300" title="synthesizers"/>
+          # <img src="/images/IMG_8581.jpg" width="400" title="nice beaches"/> 
+          # <img src="/images/IMG_5849.jpeg " width="400" title="skates"/>
+        # </p>
+        # <p style="text-align:center">
+          # <img src="/images/IMG_5850.jpeg " width="300" title="playing guitar"/>
+          # <img src="/images/waterfall.gif " width="450" title="waterfalls"/>
+          # <img src="/images/geyser.gif " width="300" title="watching geysers from really near"/>
+        # </p>
+        # <p style="text-align:center">
+          # <img src="/images/Arduino_UNO_WIFI_30117100-01.jpeg " width="330" title="arduinos"/>
+          # <img src="/images/V2Y0.gif " width="330" title="cinema"/>
+          # <img src="/images/philosophy.jpeg " width="330" title="philosophy"/>
+        # </p>
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
