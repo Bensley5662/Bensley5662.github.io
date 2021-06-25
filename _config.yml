@@ -133,9 +133,9 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
         <p style="text-align:center">
-           <img src="/images/Artboard-280x280p " width="400" title="Impress!ve"/>
-           <img src="/images/AWA " width="400" title="AWA"/> 
-           <img src="/images/WME_logo " width="400" title="WME"/>
+           <img src="/images/Artboard-280x280p.png " width="400" title="Impress!ve"/>
+           <img src="/images/AWA.png " width="400" title="AWA"/> 
+           <img src="/images/WME_logo.jpg " width="400" title="WME"/>
          </p>
 
   # - title: Conferences
