@@ -129,10 +129,14 @@ content:
 
         #  I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
-  - title: Other publications
+  - title: Content and copy writing experience
     layout: text
     content: | # this will include new lines to allow paragraphs
-       
+        <p style="text-align:center">
+           <img src="/images/Artboard-280x280p " width="400" title="Impress!ve"/>
+           <img src="/images/AWA " width="400" title="AWA"/> 
+           <img src="/images/WME_logo " width="400" title="WME"/>
+         </p>
 
   # - title: Conferences
     # layout: text
