@@ -76,7 +76,8 @@ content:
         caption: 2017 - 2019
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description:  Film reviewer, feature writer, festival attendee.
+        description: | # 
+                 Film reviewer, feature writer, festival attendee.
             
 
       - layout: left
@@ -87,8 +88,8 @@ content:
         caption: 2015 - 2018
           #quote: >
           #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description:   Chief film reviewer, interviewer, events reviewer. 
-                 
+        description: | # this will include new lines to allow paragraphs
+                 Chief film reviewer, interviewer, events reviwer. 
 
       - layout: right
         title: Theatre People AU
@@ -98,8 +99,8 @@ content:
         caption: 2013 - 2015
           #quote: >
           #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description:  Theatre reviewer.
-                
+        description: | # this will include new lines to allow paragraphs
+                 Theatre reviwer.
          
          
 
