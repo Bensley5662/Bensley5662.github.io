@@ -65,7 +65,7 @@ content:
         caption: 2019 - 2021
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # 
+        description: |
                  Script reader, fiction editor, writing guide creator, market researcher.
             
 
@@ -77,7 +77,7 @@ content:
         caption: 2017 - 2019
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # 
+        description: |
                  Film reviewer, feature writer, festival attendee.
             
 
@@ -89,7 +89,7 @@ content:
         caption: 2015 - 2018
           #quote: >
           #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
+        description: |
                  Chief film reviewer, interviewer, events reviwer. 
 
       - layout: right
@@ -100,7 +100,7 @@ content:
         caption: 2013 - 2015
           #quote: >
           #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
+        description: |
                  Theatre reviewer.
          
          
