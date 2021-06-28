@@ -65,7 +65,7 @@ content:
         caption: 2019 - 2021
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
+        description: | # Script reader, fiction editor, writing guide creator, market researcher.
             
 
       - layout: right
@@ -76,7 +76,7 @@ content:
         caption: 2017 - 2019
         #quote: >
         #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
+        description:  Film reviewer, feature writer, festival attendee.
             
 
       - layout: left
@@ -87,7 +87,7 @@ content:
         caption: 2015 - 2018
           #quote: >
           #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
+        description:   Chief film reviewer, interviewer, events reviewer. 
                  
 
       - layout: right
@@ -98,7 +98,7 @@ content:
         caption: 2013 - 2015
           #quote: >
           #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
+        description:  Theatre reviewer.
                 
          
          
@@ -137,7 +137,7 @@ content:
            <img src="/images/WME_logo.jpg " width="400" title="WME"/>
          </p>
 
-  # - title: Conferences
+  # - title: Music
     # layout: text
     # content: | # this will include new lines to allow paragraphs
         # - **2019** INSIGHT, Berlin. Poster ‘Serotonergic modulation of slow oscillations’ 
@@ -148,7 +148,7 @@ content:
     # content: | # this will include new lines to allow paragraphs
         # - **2015** Neurocure fellowship
 
-  # - title: Various interests
+  # - title: Music
     # layout: text
     # content: | # this will include new lines to allow paragraphs
         # <p style="text-align:center">
