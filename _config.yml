@@ -69,7 +69,7 @@ content:
                  Script reader, fiction editor, writing guide creator, market researcher.
             
 
-      - layout: right
+      - layout: left
         title: Hunter and Bligh
         link: https://www.hunterandbligh.com.au/author/tom-bensley/
          # link_text: boringcompany.com
@@ -92,7 +92,7 @@ content:
         description: |
                  Chief film reviewer, interviewer, events reviwer. 
 
-      - layout: right
+      - layout: left
         title: Theatre People AU
         link: https://www.theatrepeople.com.au/
         # link_text: boringcompany.com
